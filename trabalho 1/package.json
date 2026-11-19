@@ -1,0 +1,12 @@
+{
+  "name": "catalogo-mvc",
+  "version": "1.0.0",
+  "description": "API do catalogo da Papelaria Saber",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
